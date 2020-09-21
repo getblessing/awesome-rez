@@ -1,5 +1,6 @@
 # deploy-rez
 
+```
 rezconfig.py
 rezshare
 
@@ -104,3 +105,4 @@ usd_maya
 usd_qt
 vcvars64
 zlib
+```
