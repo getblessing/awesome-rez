@@ -2,7 +2,6 @@
   {
     "options": [],
     "requires": [
-      "python",
       "PySide2",
       "Qt.py",
       "allzpark",

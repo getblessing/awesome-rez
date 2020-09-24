@@ -101,6 +101,8 @@ def deploy_package(names, release=False):
     install_rez(release)
     # default, for packages that has no variants
     git_build(pkg_repos["default"], release)
+    # python
+    git_build(pkg_repos["python"], release)
     # rezcore, for building other rez packages
     git_build(pkg_repos["rezcore"], release)
     # rezutil, for building other rez packages
