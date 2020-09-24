@@ -99,6 +99,8 @@ def deploy_package(names, release=False):
     bind_os(release)
     # rez itself as  package
     install_rez(release)
+    # default, for packages that has no variants
+    git_build(pkg_repos["default"], release)
     # rezcore, for building other rez packages
     git_build(pkg_repos["rezcore"], release)
     # rezutil, for building other rez packages
