@@ -3,7 +3,6 @@
     "options": [],
     "requires": [
       "default",
-      "rez",
       "python",
       "PySide2",
       "Qt.py",
