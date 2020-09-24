@@ -16,13 +16,14 @@ def fetch_pkg_repos():
     org_url = "%s/getblessing/repos?per_page=%d" % (api_url, per_page)
 
     pkg_repos = dict()
+    pkg_prefix = "rez-"
 
     result = urllib.urlopen(org_url)
     for repo in json.loads(result.read()):
         is_public = not (repo["archived"] or repo["private"])
         name = repo["name"]
-        if name.startswith("rez-") and is_public:
-            pkg_repos[name] = {
+        if name.startswith(pkg_prefix) and is_public:
+            data = {
                 key: repo[key] for key in [
                     "url",
                     "git_url",
@@ -31,6 +32,8 @@ def fetch_pkg_repos():
                     "name",
                 ]
             }
+            data["rez_name"] = name[len(pkg_prefix):]
+            pkg_repos[name] = data
 
     return pkg_repos
 
