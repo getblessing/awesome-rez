@@ -17,16 +17,44 @@ with open("inventory.json", "r") as inventory:
     pkg_repos = json.load(inventory)
 
 # Cache installed package family names
-installed_packages = set(
-    subprocess.check_output(
-        ["rez-search"],
-        universal_newlines=True
-    ).split()
-)
+try:
+    installed_packages = set(
+        subprocess.check_output(
+            ["rez-search"],
+            universal_newlines=True,
+            stderr=subprocess.DEVNULL,
+        ).split()
+    )
+except subprocess.CalledProcessError:
+    installed_packages = set()
 
 
 def is_installed(name):
     return name in installed_packages
+
+
+def bind_os(release=False):
+    if is_installed("os"):
+        return
+
+    if release:
+        subprocess.check_call(["rez-bind", "--release", "os"])
+    else:
+        subprocess.check_call(["rez-bind", "os"])
+
+    installed_packages.add("os")
+
+
+def install_rez(release=False):
+    if is_installed("rez"):
+        return
+
+    if release:
+        subprocess.check_call(["rez-release"], cwd="rezpkg")
+    else:
+        subprocess.check_call(["rez-build", "--install"], cwd="rezpkg")
+
+    installed_packages.add("rez")
 
 
 def git_build(data, release=False):
@@ -38,8 +66,8 @@ def git_build(data, release=False):
         return
 
     def _git_build(build_options):
-        git.build(data["git_url"],
-                  clone_dst=data["name"],
+        git.build(data["clone_url"],
+                  clone_dst="build/%s" % data["name"],
                   install=True,
                   release=release,
                   build_options=build_options)
@@ -66,6 +94,19 @@ def git_build(data, release=False):
 
 
 def deploy_package(names, release=False):
+    # Installing essential packages
+    # os, arch, platform
+    bind_os(release)
+    # rez itself as  package
+    install_rez(release)
+    # rezcore, for building other rez packages
+    git_build(pkg_repos["rezcore"], release)
+    # rezutil, for building other rez packages
+    git_build(pkg_repos["rezutil"], release)
+    # pipz, for pypi packages
+    git_build(pkg_repos["pipz"], release)
+
+    # Installing demand packages
     for data in [pkg_repos[n] for n in names]:
         git_build(data, release)
 
