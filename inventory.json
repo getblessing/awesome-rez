@@ -1,639 +1,639 @@
 {
-    "rez-alembic": {
+    "alembic": {
         "url": "https://api.github.com/repos/getblessing/rez-alembic",
-        "git_url": "git://github.com/getblessing/rez-alembic.git",
+        "clone_url": "https://github.com/getblessing/rez-alembic.git",
         "html_url": "https://github.com/getblessing/rez-alembic",
         "full_name": "getblessing/rez-alembic",
         "name": "rez-alembic",
         "rez_name": "alembic"
     },
-    "rez-allzpark": {
+    "allzpark": {
         "url": "https://api.github.com/repos/getblessing/rez-allzpark",
-        "git_url": "git://github.com/getblessing/rez-allzpark.git",
+        "clone_url": "https://github.com/getblessing/rez-allzpark.git",
         "html_url": "https://github.com/getblessing/rez-allzpark",
         "full_name": "getblessing/rez-allzpark",
         "name": "rez-allzpark",
         "rez_name": "allzpark"
     },
-    "rez-arnold": {
+    "arnold": {
         "url": "https://api.github.com/repos/getblessing/rez-arnold",
-        "git_url": "git://github.com/getblessing/rez-arnold.git",
+        "clone_url": "https://github.com/getblessing/rez-arnold.git",
         "html_url": "https://github.com/getblessing/rez-arnold",
         "full_name": "getblessing/rez-arnold",
         "name": "rez-arnold",
         "rez_name": "arnold"
     },
-    "rez-atoms": {
+    "atoms": {
         "url": "https://api.github.com/repos/getblessing/rez-atoms",
-        "git_url": "git://github.com/getblessing/rez-atoms.git",
+        "clone_url": "https://github.com/getblessing/rez-atoms.git",
         "html_url": "https://github.com/getblessing/rez-atoms",
         "full_name": "getblessing/rez-atoms",
         "name": "rez-atoms",
         "rez_name": "atoms"
     },
-    "rez-avalon": {
+    "avalon": {
         "url": "https://api.github.com/repos/getblessing/rez-avalon",
-        "git_url": "git://github.com/getblessing/rez-avalon.git",
+        "clone_url": "https://github.com/getblessing/rez-avalon.git",
         "html_url": "https://github.com/getblessing/rez-avalon",
         "full_name": "getblessing/rez-avalon",
         "name": "rez-avalon",
         "rez_name": "avalon"
     },
-    "rez-avalon_sftpc": {
+    "avalon_sftpc": {
         "url": "https://api.github.com/repos/getblessing/rez-avalon_sftpc",
-        "git_url": "git://github.com/getblessing/rez-avalon_sftpc.git",
+        "clone_url": "https://github.com/getblessing/rez-avalon_sftpc.git",
         "html_url": "https://github.com/getblessing/rez-avalon_sftpc",
         "full_name": "getblessing/rez-avalon_sftpc",
         "name": "rez-avalon_sftpc",
         "rez_name": "avalon_sftpc"
     },
-    "rez-b2": {
+    "b2": {
         "url": "https://api.github.com/repos/getblessing/rez-b2",
-        "git_url": "git://github.com/getblessing/rez-b2.git",
+        "clone_url": "https://github.com/getblessing/rez-b2.git",
         "html_url": "https://github.com/getblessing/rez-b2",
         "full_name": "getblessing/rez-b2",
         "name": "rez-b2",
         "rez_name": "b2"
     },
-    "rez-blosc": {
+    "blosc": {
         "url": "https://api.github.com/repos/getblessing/rez-blosc",
-        "git_url": "git://github.com/getblessing/rez-blosc.git",
+        "clone_url": "https://github.com/getblessing/rez-blosc.git",
         "html_url": "https://github.com/getblessing/rez-blosc",
         "full_name": "getblessing/rez-blosc",
         "name": "rez-blosc",
         "rez_name": "blosc"
     },
-    "rez-boost": {
+    "boost": {
         "url": "https://api.github.com/repos/getblessing/rez-boost",
-        "git_url": "git://github.com/getblessing/rez-boost.git",
+        "clone_url": "https://github.com/getblessing/rez-boost.git",
         "html_url": "https://github.com/getblessing/rez-boost",
         "full_name": "getblessing/rez-boost",
         "name": "rez-boost",
         "rez_name": "boost"
     },
-    "rez-clion": {
+    "clion": {
         "url": "https://api.github.com/repos/getblessing/rez-clion",
-        "git_url": "git://github.com/getblessing/rez-clion.git",
+        "clone_url": "https://github.com/getblessing/rez-clion.git",
         "html_url": "https://github.com/getblessing/rez-clion",
         "full_name": "getblessing/rez-clion",
         "name": "rez-clion",
         "rez_name": "clion"
     },
-    "rez-cmake": {
+    "cmake": {
         "url": "https://api.github.com/repos/getblessing/rez-cmake",
-        "git_url": "git://github.com/getblessing/rez-cmake.git",
+        "clone_url": "https://github.com/getblessing/rez-cmake.git",
         "html_url": "https://github.com/getblessing/rez-cmake",
         "full_name": "getblessing/rez-cmake",
         "name": "rez-cmake",
         "rez_name": "cmake"
     },
-    "rez-deadline": {
+    "deadline": {
         "url": "https://api.github.com/repos/getblessing/rez-deadline",
-        "git_url": "git://github.com/getblessing/rez-deadline.git",
+        "clone_url": "https://github.com/getblessing/rez-deadline.git",
         "html_url": "https://github.com/getblessing/rez-deadline",
         "full_name": "getblessing/rez-deadline",
         "name": "rez-deadline",
         "rez_name": "deadline"
     },
-    "rez-default": {
+    "default": {
         "url": "https://api.github.com/repos/getblessing/rez-default",
-        "git_url": "git://github.com/getblessing/rez-default.git",
+        "clone_url": "https://github.com/getblessing/rez-default.git",
         "html_url": "https://github.com/getblessing/rez-default",
         "full_name": "getblessing/rez-default",
         "name": "rez-default",
         "rez_name": "default"
     },
-    "rez-doxygen": {
+    "doxygen": {
         "url": "https://api.github.com/repos/getblessing/rez-doxygen",
-        "git_url": "git://github.com/getblessing/rez-doxygen.git",
+        "clone_url": "https://github.com/getblessing/rez-doxygen.git",
         "html_url": "https://github.com/getblessing/rez-doxygen",
         "full_name": "getblessing/rez-doxygen",
         "name": "rez-doxygen",
         "rez_name": "doxygen"
     },
-    "rez-future": {
+    "future": {
         "url": "https://api.github.com/repos/getblessing/rez-future",
-        "git_url": "git://github.com/getblessing/rez-future.git",
+        "clone_url": "https://github.com/getblessing/rez-future.git",
         "html_url": "https://github.com/getblessing/rez-future",
         "full_name": "getblessing/rez-future",
         "name": "rez-future",
         "rez_name": "future"
     },
-    "rez-glew": {
+    "glew": {
         "url": "https://api.github.com/repos/getblessing/rez-glew",
-        "git_url": "git://github.com/getblessing/rez-glew.git",
+        "clone_url": "https://github.com/getblessing/rez-glew.git",
         "html_url": "https://github.com/getblessing/rez-glew",
         "full_name": "getblessing/rez-glew",
         "name": "rez-glew",
         "rez_name": "glew"
     },
-    "rez-googletest": {
+    "googletest": {
         "url": "https://api.github.com/repos/getblessing/rez-googletest",
-        "git_url": "git://github.com/getblessing/rez-googletest.git",
+        "clone_url": "https://github.com/getblessing/rez-googletest.git",
         "html_url": "https://github.com/getblessing/rez-googletest",
         "full_name": "getblessing/rez-googletest",
         "name": "rez-googletest",
         "rez_name": "googletest"
     },
-    "rez-graphviz": {
+    "graphviz": {
         "url": "https://api.github.com/repos/getblessing/rez-graphviz",
-        "git_url": "git://github.com/getblessing/rez-graphviz.git",
+        "clone_url": "https://github.com/getblessing/rez-graphviz.git",
         "html_url": "https://github.com/getblessing/rez-graphviz",
         "full_name": "getblessing/rez-graphviz",
         "name": "rez-graphviz",
         "rez_name": "graphviz"
     },
-    "rez-hdf5": {
+    "hdf5": {
         "url": "https://api.github.com/repos/getblessing/rez-hdf5",
-        "git_url": "git://github.com/getblessing/rez-hdf5.git",
+        "clone_url": "https://github.com/getblessing/rez-hdf5.git",
         "html_url": "https://github.com/getblessing/rez-hdf5",
         "full_name": "getblessing/rez-hdf5",
         "name": "rez-hdf5",
         "rez_name": "hdf5"
     },
-    "rez-houdini": {
+    "houdini": {
         "url": "https://api.github.com/repos/getblessing/rez-houdini",
-        "git_url": "git://github.com/getblessing/rez-houdini.git",
+        "clone_url": "https://github.com/getblessing/rez-houdini.git",
         "html_url": "https://github.com/getblessing/rez-houdini",
         "full_name": "getblessing/rez-houdini",
         "name": "rez-houdini",
         "rez_name": "houdini"
     },
-    "rez-identicon": {
+    "identicon": {
         "url": "https://api.github.com/repos/getblessing/rez-identicon",
-        "git_url": "git://github.com/getblessing/rez-identicon.git",
+        "clone_url": "https://github.com/getblessing/rez-identicon.git",
         "html_url": "https://github.com/getblessing/rez-identicon",
         "full_name": "getblessing/rez-identicon",
         "name": "rez-identicon",
         "rez_name": "identicon"
     },
-    "rez-ilmbase": {
+    "ilmbase": {
         "url": "https://api.github.com/repos/getblessing/rez-ilmbase",
-        "git_url": "git://github.com/getblessing/rez-ilmbase.git",
+        "clone_url": "https://github.com/getblessing/rez-ilmbase.git",
         "html_url": "https://github.com/getblessing/rez-ilmbase",
         "full_name": "getblessing/rez-ilmbase",
         "name": "rez-ilmbase",
         "rez_name": "ilmbase"
     },
-    "rez-jinja2": {
+    "jinja2": {
         "url": "https://api.github.com/repos/getblessing/rez-jinja2",
-        "git_url": "git://github.com/getblessing/rez-jinja2.git",
+        "clone_url": "https://github.com/getblessing/rez-jinja2.git",
         "html_url": "https://github.com/getblessing/rez-jinja2",
         "full_name": "getblessing/rez-jinja2",
         "name": "rez-jinja2",
         "rez_name": "jinja2"
     },
-    "rez-libjpeg": {
+    "libjpeg": {
         "url": "https://api.github.com/repos/getblessing/rez-libjpeg",
-        "git_url": "git://github.com/getblessing/rez-libjpeg.git",
+        "clone_url": "https://github.com/getblessing/rez-libjpeg.git",
         "html_url": "https://github.com/getblessing/rez-libjpeg",
         "full_name": "getblessing/rez-libjpeg",
         "name": "rez-libjpeg",
         "rez_name": "libjpeg"
     },
-    "rez-libjpeg_turbo": {
+    "libjpeg_turbo": {
         "url": "https://api.github.com/repos/getblessing/rez-libjpeg_turbo",
-        "git_url": "git://github.com/getblessing/rez-libjpeg_turbo.git",
+        "clone_url": "https://github.com/getblessing/rez-libjpeg_turbo.git",
         "html_url": "https://github.com/getblessing/rez-libjpeg_turbo",
         "full_name": "getblessing/rez-libjpeg_turbo",
         "name": "rez-libjpeg_turbo",
         "rez_name": "libjpeg_turbo"
     },
-    "rez-libpng": {
+    "libpng": {
         "url": "https://api.github.com/repos/getblessing/rez-libpng",
-        "git_url": "git://github.com/getblessing/rez-libpng.git",
+        "clone_url": "https://github.com/getblessing/rez-libpng.git",
         "html_url": "https://github.com/getblessing/rez-libpng",
         "full_name": "getblessing/rez-libpng",
         "name": "rez-libpng",
         "rez_name": "libpng"
     },
-    "rez-libtiff": {
+    "libtiff": {
         "url": "https://api.github.com/repos/getblessing/rez-libtiff",
-        "git_url": "git://github.com/getblessing/rez-libtiff.git",
+        "clone_url": "https://github.com/getblessing/rez-libtiff.git",
         "html_url": "https://github.com/getblessing/rez-libtiff",
         "full_name": "getblessing/rez-libtiff",
         "name": "rez-libtiff",
         "rez_name": "libtiff"
     },
-    "rez-localz": {
+    "localz": {
         "url": "https://api.github.com/repos/getblessing/rez-localz",
-        "git_url": "git://github.com/getblessing/rez-localz.git",
+        "clone_url": "https://github.com/getblessing/rez-localz.git",
         "html_url": "https://github.com/getblessing/rez-localz",
         "full_name": "getblessing/rez-localz",
         "name": "rez-localz",
         "rez_name": "localz"
     },
-    "rez-materialx": {
+    "materialx": {
         "url": "https://api.github.com/repos/getblessing/rez-materialx",
-        "git_url": "git://github.com/getblessing/rez-materialx.git",
+        "clone_url": "https://github.com/getblessing/rez-materialx.git",
         "html_url": "https://github.com/getblessing/rez-materialx",
         "full_name": "getblessing/rez-materialx",
         "name": "rez-materialx",
         "rez_name": "materialx"
     },
-    "rez-maya": {
+    "maya": {
         "url": "https://api.github.com/repos/getblessing/rez-maya",
-        "git_url": "git://github.com/getblessing/rez-maya.git",
+        "clone_url": "https://github.com/getblessing/rez-maya.git",
         "html_url": "https://github.com/getblessing/rez-maya",
         "full_name": "getblessing/rez-maya",
         "name": "rez-maya",
         "rez_name": "maya"
     },
-    "rez-maya_devkit": {
+    "maya_devkit": {
         "url": "https://api.github.com/repos/getblessing/rez-maya_devkit",
-        "git_url": "git://github.com/getblessing/rez-maya_devkit.git",
+        "clone_url": "https://github.com/getblessing/rez-maya_devkit.git",
         "html_url": "https://github.com/getblessing/rez-maya_devkit",
         "full_name": "getblessing/rez-maya_devkit",
         "name": "rez-maya_devkit",
         "rez_name": "maya_devkit"
     },
-    "rez-merlin": {
+    "merlin": {
         "url": "https://api.github.com/repos/getblessing/rez-merlin",
-        "git_url": "git://github.com/getblessing/rez-merlin.git",
+        "clone_url": "https://github.com/getblessing/rez-merlin.git",
         "html_url": "https://github.com/getblessing/rez-merlin",
         "full_name": "getblessing/rez-merlin",
         "name": "rez-merlin",
         "rez_name": "merlin"
     },
-    "rez-miniconda": {
+    "miniconda": {
         "url": "https://api.github.com/repos/getblessing/rez-miniconda",
-        "git_url": "git://github.com/getblessing/rez-miniconda.git",
+        "clone_url": "https://github.com/getblessing/rez-miniconda.git",
         "html_url": "https://github.com/getblessing/rez-miniconda",
         "full_name": "getblessing/rez-miniconda",
         "name": "rez-miniconda",
         "rez_name": "miniconda"
     },
-    "rez-mockapp": {
+    "mockapp": {
         "url": "https://api.github.com/repos/getblessing/rez-mockapp",
-        "git_url": "git://github.com/getblessing/rez-mockapp.git",
+        "clone_url": "https://github.com/getblessing/rez-mockapp.git",
         "html_url": "https://github.com/getblessing/rez-mockapp",
         "full_name": "getblessing/rez-mockapp",
         "name": "rez-mockapp",
         "rez_name": "mockapp"
     },
-    "rez-montydb": {
+    "montydb": {
         "url": "https://api.github.com/repos/getblessing/rez-montydb",
-        "git_url": "git://github.com/getblessing/rez-montydb.git",
+        "clone_url": "https://github.com/getblessing/rez-montydb.git",
         "html_url": "https://github.com/getblessing/rez-montydb",
         "full_name": "getblessing/rez-montydb",
         "name": "rez-montydb",
         "rez_name": "montydb"
     },
-    "rez-nasm": {
+    "nasm": {
         "url": "https://api.github.com/repos/getblessing/rez-nasm",
-        "git_url": "git://github.com/getblessing/rez-nasm.git",
+        "clone_url": "https://github.com/getblessing/rez-nasm.git",
         "html_url": "https://github.com/getblessing/rez-nasm",
         "full_name": "getblessing/rez-nasm",
         "name": "rez-nasm",
         "rez_name": "nasm"
     },
-    "rez-nuke": {
+    "nuke": {
         "url": "https://api.github.com/repos/getblessing/rez-nuke",
-        "git_url": "git://github.com/getblessing/rez-nuke.git",
+        "clone_url": "https://github.com/getblessing/rez-nuke.git",
         "html_url": "https://github.com/getblessing/rez-nuke",
         "full_name": "getblessing/rez-nuke",
         "name": "rez-nuke",
         "rez_name": "nuke"
     },
-    "rez-opencolorio": {
+    "opencolorio": {
         "url": "https://api.github.com/repos/getblessing/rez-opencolorio",
-        "git_url": "git://github.com/getblessing/rez-opencolorio.git",
+        "clone_url": "https://github.com/getblessing/rez-opencolorio.git",
         "html_url": "https://github.com/getblessing/rez-opencolorio",
         "full_name": "getblessing/rez-opencolorio",
         "name": "rez-opencolorio",
         "rez_name": "opencolorio"
     },
-    "rez-openexr": {
+    "openexr": {
         "url": "https://api.github.com/repos/getblessing/rez-openexr",
-        "git_url": "git://github.com/getblessing/rez-openexr.git",
+        "clone_url": "https://github.com/getblessing/rez-openexr.git",
         "html_url": "https://github.com/getblessing/rez-openexr",
         "full_name": "getblessing/rez-openexr",
         "name": "rez-openexr",
         "rez_name": "openexr"
     },
-    "rez-openimageio": {
+    "openimageio": {
         "url": "https://api.github.com/repos/getblessing/rez-openimageio",
-        "git_url": "git://github.com/getblessing/rez-openimageio.git",
+        "clone_url": "https://github.com/getblessing/rez-openimageio.git",
         "html_url": "https://github.com/getblessing/rez-openimageio",
         "full_name": "getblessing/rez-openimageio",
         "name": "rez-openimageio",
         "rez_name": "openimageio"
     },
-    "rez-opensubdiv": {
+    "opensubdiv": {
         "url": "https://api.github.com/repos/getblessing/rez-opensubdiv",
-        "git_url": "git://github.com/getblessing/rez-opensubdiv.git",
+        "clone_url": "https://github.com/getblessing/rez-opensubdiv.git",
         "html_url": "https://github.com/getblessing/rez-opensubdiv",
         "full_name": "getblessing/rez-opensubdiv",
         "name": "rez-opensubdiv",
         "rez_name": "opensubdiv"
     },
-    "rez-openvdb": {
+    "openvdb": {
         "url": "https://api.github.com/repos/getblessing/rez-openvdb",
-        "git_url": "git://github.com/getblessing/rez-openvdb.git",
+        "clone_url": "https://github.com/getblessing/rez-openvdb.git",
         "html_url": "https://github.com/getblessing/rez-openvdb",
         "full_name": "getblessing/rez-openvdb",
         "name": "rez-openvdb",
         "rez_name": "openvdb"
     },
-    "rez-ozark": {
+    "ozark": {
         "url": "https://api.github.com/repos/getblessing/rez-ozark",
-        "git_url": "git://github.com/getblessing/rez-ozark.git",
+        "clone_url": "https://github.com/getblessing/rez-ozark.git",
         "html_url": "https://github.com/getblessing/rez-ozark",
         "full_name": "getblessing/rez-ozark",
         "name": "rez-ozark",
         "rez_name": "ozark"
     },
-    "rez-paramiko": {
+    "paramiko": {
         "url": "https://api.github.com/repos/getblessing/rez-paramiko",
-        "git_url": "git://github.com/getblessing/rez-paramiko.git",
+        "clone_url": "https://github.com/getblessing/rez-paramiko.git",
         "html_url": "https://github.com/getblessing/rez-paramiko",
         "full_name": "getblessing/rez-paramiko",
         "name": "rez-paramiko",
         "rez_name": "paramiko"
     },
-    "rez-Pillow": {
+    "Pillow": {
         "url": "https://api.github.com/repos/getblessing/rez-Pillow",
-        "git_url": "git://github.com/getblessing/rez-Pillow.git",
+        "clone_url": "https://github.com/getblessing/rez-Pillow.git",
         "html_url": "https://github.com/getblessing/rez-Pillow",
         "full_name": "getblessing/rez-Pillow",
         "name": "rez-Pillow",
         "rez_name": "Pillow"
     },
-    "rez-pipz": {
+    "pipz": {
         "url": "https://api.github.com/repos/getblessing/rez-pipz",
-        "git_url": "git://github.com/getblessing/rez-pipz.git",
+        "clone_url": "https://github.com/getblessing/rez-pipz.git",
         "html_url": "https://github.com/getblessing/rez-pipz",
         "full_name": "getblessing/rez-pipz",
         "name": "rez-pipz",
         "rez_name": "pipz"
     },
-    "rez-ptex": {
+    "ptex": {
         "url": "https://api.github.com/repos/getblessing/rez-ptex",
-        "git_url": "git://github.com/getblessing/rez-ptex.git",
+        "clone_url": "https://github.com/getblessing/rez-ptex.git",
         "html_url": "https://github.com/getblessing/rez-ptex",
         "full_name": "getblessing/rez-ptex",
         "name": "rez-ptex",
         "rez_name": "ptex"
     },
-    "rez-pyblish": {
+    "pyblish": {
         "url": "https://api.github.com/repos/getblessing/rez-pyblish",
-        "git_url": "git://github.com/getblessing/rez-pyblish.git",
+        "clone_url": "https://github.com/getblessing/rez-pyblish.git",
         "html_url": "https://github.com/getblessing/rez-pyblish",
         "full_name": "getblessing/rez-pyblish",
         "name": "rez-pyblish",
         "rez_name": "pyblish"
     },
-    "rez-pyblish_qml": {
+    "pyblish_qml": {
         "url": "https://api.github.com/repos/getblessing/rez-pyblish_qml",
-        "git_url": "git://github.com/getblessing/rez-pyblish_qml.git",
+        "clone_url": "https://github.com/getblessing/rez-pyblish_qml.git",
         "html_url": "https://github.com/getblessing/rez-pyblish_qml",
         "full_name": "getblessing/rez-pyblish_qml",
         "name": "rez-pyblish_qml",
         "rez_name": "pyblish_qml"
     },
-    "rez-pycharm": {
+    "pycharm": {
         "url": "https://api.github.com/repos/getblessing/rez-pycharm",
-        "git_url": "git://github.com/getblessing/rez-pycharm.git",
+        "clone_url": "https://github.com/getblessing/rez-pycharm.git",
         "html_url": "https://github.com/getblessing/rez-pycharm",
         "full_name": "getblessing/rez-pycharm",
         "name": "rez-pycharm",
         "rez_name": "pycharm"
     },
-    "rez-pyidle": {
+    "pyidle": {
         "url": "https://api.github.com/repos/getblessing/rez-pyidle",
-        "git_url": "git://github.com/getblessing/rez-pyidle.git",
+        "clone_url": "https://github.com/getblessing/rez-pyidle.git",
         "html_url": "https://github.com/getblessing/rez-pyidle",
         "full_name": "getblessing/rez-pyidle",
         "name": "rez-pyidle",
         "rez_name": "pyidle"
     },
-    "rez-pymongo": {
+    "pymongo": {
         "url": "https://api.github.com/repos/getblessing/rez-pymongo",
-        "git_url": "git://github.com/getblessing/rez-pymongo.git",
+        "clone_url": "https://github.com/getblessing/rez-pymongo.git",
         "html_url": "https://github.com/getblessing/rez-pymongo",
         "full_name": "getblessing/rez-pymongo",
         "name": "rez-pymongo",
         "rez_name": "pymongo"
     },
-    "rez-PyOpenGL": {
+    "PyOpenGL": {
         "url": "https://api.github.com/repos/getblessing/rez-PyOpenGL",
-        "git_url": "git://github.com/getblessing/rez-PyOpenGL.git",
+        "clone_url": "https://github.com/getblessing/rez-PyOpenGL.git",
         "html_url": "https://github.com/getblessing/rez-PyOpenGL",
         "full_name": "getblessing/rez-PyOpenGL",
         "name": "rez-PyOpenGL",
         "rez_name": "PyOpenGL"
     },
-    "rez-PyQt5": {
+    "PyQt5": {
         "url": "https://api.github.com/repos/getblessing/rez-PyQt5",
-        "git_url": "git://github.com/getblessing/rez-PyQt5.git",
+        "clone_url": "https://github.com/getblessing/rez-PyQt5.git",
         "html_url": "https://github.com/getblessing/rez-PyQt5",
         "full_name": "getblessing/rez-PyQt5",
         "name": "rez-PyQt5",
         "rez_name": "PyQt5"
     },
-    "rez-pysftp": {
+    "pysftp": {
         "url": "https://api.github.com/repos/getblessing/rez-pysftp",
-        "git_url": "git://github.com/getblessing/rez-pysftp.git",
+        "clone_url": "https://github.com/getblessing/rez-pysftp.git",
         "html_url": "https://github.com/getblessing/rez-pysftp",
         "full_name": "getblessing/rez-pysftp",
         "name": "rez-pysftp",
         "rez_name": "pysftp"
     },
-    "rez-PySide": {
+    "PySide": {
         "url": "https://api.github.com/repos/getblessing/rez-PySide",
-        "git_url": "git://github.com/getblessing/rez-PySide.git",
+        "clone_url": "https://github.com/getblessing/rez-PySide.git",
         "html_url": "https://github.com/getblessing/rez-PySide",
         "full_name": "getblessing/rez-PySide",
         "name": "rez-PySide",
         "rez_name": "PySide"
     },
-    "rez-PySide2": {
+    "PySide2": {
         "url": "https://api.github.com/repos/getblessing/rez-PySide2",
-        "git_url": "git://github.com/getblessing/rez-PySide2.git",
+        "clone_url": "https://github.com/getblessing/rez-PySide2.git",
         "html_url": "https://github.com/getblessing/rez-PySide2",
         "full_name": "getblessing/rez-PySide2",
         "name": "rez-PySide2",
         "rez_name": "PySide2"
     },
-    "rez-python": {
+    "python": {
         "url": "https://api.github.com/repos/getblessing/rez-python",
-        "git_url": "git://github.com/getblessing/rez-python.git",
+        "clone_url": "https://github.com/getblessing/rez-python.git",
         "html_url": "https://github.com/getblessing/rez-python",
         "full_name": "getblessing/rez-python",
         "name": "rez-python",
         "rez_name": "python"
     },
-    "rez-python_dotenv": {
+    "python_dotenv": {
         "url": "https://api.github.com/repos/getblessing/rez-python_dotenv",
-        "git_url": "git://github.com/getblessing/rez-python_dotenv.git",
+        "clone_url": "https://github.com/getblessing/rez-python_dotenv.git",
         "html_url": "https://github.com/getblessing/rez-python_dotenv",
         "full_name": "getblessing/rez-python_dotenv",
         "name": "rez-python_dotenv",
         "rez_name": "python_dotenv"
     },
-    "rez-qt": {
+    "qt": {
         "url": "https://api.github.com/repos/getblessing/rez-qt",
-        "git_url": "git://github.com/getblessing/rez-qt.git",
+        "clone_url": "https://github.com/getblessing/rez-qt.git",
         "html_url": "https://github.com/getblessing/rez-qt",
         "full_name": "getblessing/rez-qt",
         "name": "rez-qt",
         "rez_name": "qt"
     },
-    "rez-Qt.py": {
+    "Qt.py": {
         "url": "https://api.github.com/repos/getblessing/rez-Qt.py",
-        "git_url": "git://github.com/getblessing/rez-Qt.py.git",
+        "clone_url": "https://github.com/getblessing/rez-Qt.py.git",
         "html_url": "https://github.com/getblessing/rez-Qt.py",
         "full_name": "getblessing/rez-Qt.py",
         "name": "rez-Qt.py",
         "rez_name": "Qt.py"
     },
-    "rez-release": {
+    "release": {
         "url": "https://api.github.com/repos/getblessing/rez-release",
-        "git_url": "git://github.com/getblessing/rez-release.git",
+        "clone_url": "https://github.com/getblessing/rez-release.git",
         "html_url": "https://github.com/getblessing/rez-release",
         "full_name": "getblessing/rez-release",
         "name": "rez-release",
         "rez_name": "release"
     },
-    "rez-reveries": {
+    "reveries": {
         "url": "https://api.github.com/repos/getblessing/rez-reveries",
-        "git_url": "git://github.com/getblessing/rez-reveries.git",
+        "clone_url": "https://github.com/getblessing/rez-reveries.git",
         "html_url": "https://github.com/getblessing/rez-reveries",
         "full_name": "getblessing/rez-reveries",
         "name": "rez-reveries",
         "rez_name": "reveries"
     },
-    "rez-rezcore": {
+    "rezcore": {
         "url": "https://api.github.com/repos/getblessing/rez-rezcore",
-        "git_url": "git://github.com/getblessing/rez-rezcore.git",
+        "clone_url": "https://github.com/getblessing/rez-rezcore.git",
         "html_url": "https://github.com/getblessing/rez-rezcore",
         "full_name": "getblessing/rez-rezcore",
         "name": "rez-rezcore",
         "rez_name": "rezcore"
     },
-    "rez-rezgui": {
+    "rezgui": {
         "url": "https://api.github.com/repos/getblessing/rez-rezgui",
-        "git_url": "git://github.com/getblessing/rez-rezgui.git",
+        "clone_url": "https://github.com/getblessing/rez-rezgui.git",
         "html_url": "https://github.com/getblessing/rez-rezgui",
         "full_name": "getblessing/rez-rezgui",
         "name": "rez-rezgui",
         "rez_name": "rezgui"
     },
-    "rez-rezpkg": {
+    "rezpkg": {
         "url": "https://api.github.com/repos/getblessing/rez-rezpkg",
-        "git_url": "git://github.com/getblessing/rez-rezpkg.git",
+        "clone_url": "https://github.com/getblessing/rez-rezpkg.git",
         "html_url": "https://github.com/getblessing/rez-rezpkg",
         "full_name": "getblessing/rez-rezpkg",
         "name": "rez-rezpkg",
         "rez_name": "rezpkg"
     },
-    "rez-rezshare": {
+    "rezshare": {
         "url": "https://api.github.com/repos/getblessing/rez-rezshare",
-        "git_url": "git://github.com/getblessing/rez-rezshare.git",
+        "clone_url": "https://github.com/getblessing/rez-rezshare.git",
         "html_url": "https://github.com/getblessing/rez-rezshare",
         "full_name": "getblessing/rez-rezshare",
         "name": "rez-rezshare",
         "rez_name": "rezshare"
     },
-    "rez-rezutil": {
+    "rezutil": {
         "url": "https://api.github.com/repos/getblessing/rez-rezutil",
-        "git_url": "git://github.com/getblessing/rez-rezutil.git",
+        "clone_url": "https://github.com/getblessing/rez-rezutil.git",
         "html_url": "https://github.com/getblessing/rez-rezutil",
         "full_name": "getblessing/rez-rezutil",
         "name": "rez-rezutil",
         "rez_name": "rezutil"
     },
-    "rez-rich": {
+    "rich": {
         "url": "https://api.github.com/repos/getblessing/rez-rich",
-        "git_url": "git://github.com/getblessing/rez-rich.git",
+        "clone_url": "https://github.com/getblessing/rez-rich.git",
         "html_url": "https://github.com/getblessing/rez-rich",
         "full_name": "getblessing/rez-rich",
         "name": "rez-rich",
         "rez_name": "rich"
     },
-    "rez-six": {
+    "six": {
         "url": "https://api.github.com/repos/getblessing/rez-six",
-        "git_url": "git://github.com/getblessing/rez-six.git",
+        "clone_url": "https://github.com/getblessing/rez-six.git",
         "html_url": "https://github.com/getblessing/rez-six",
         "full_name": "getblessing/rez-six",
         "name": "rez-six",
         "rez_name": "six"
     },
-    "rez-sublime": {
+    "sublime": {
         "url": "https://api.github.com/repos/getblessing/rez-sublime",
-        "git_url": "git://github.com/getblessing/rez-sublime.git",
+        "clone_url": "https://github.com/getblessing/rez-sublime.git",
         "html_url": "https://github.com/getblessing/rez-sublime",
         "full_name": "getblessing/rez-sublime",
         "name": "rez-sublime",
         "rez_name": "sublime"
     },
-    "rez-tbb": {
+    "tbb": {
         "url": "https://api.github.com/repos/getblessing/rez-tbb",
-        "git_url": "git://github.com/getblessing/rez-tbb.git",
+        "clone_url": "https://github.com/getblessing/rez-tbb.git",
         "html_url": "https://github.com/getblessing/rez-tbb",
         "full_name": "getblessing/rez-tbb",
         "name": "rez-tbb",
         "rez_name": "tbb"
     },
-    "rez-terminal": {
+    "terminal": {
         "url": "https://api.github.com/repos/getblessing/rez-terminal",
-        "git_url": "git://github.com/getblessing/rez-terminal.git",
+        "clone_url": "https://github.com/getblessing/rez-terminal.git",
         "html_url": "https://github.com/getblessing/rez-terminal",
         "full_name": "getblessing/rez-terminal",
         "name": "rez-terminal",
         "rez_name": "terminal"
     },
-    "rez-usd": {
+    "usd": {
         "url": "https://api.github.com/repos/getblessing/rez-usd",
-        "git_url": "git://github.com/getblessing/rez-usd.git",
+        "clone_url": "https://github.com/getblessing/rez-usd.git",
         "html_url": "https://github.com/getblessing/rez-usd",
         "full_name": "getblessing/rez-usd",
         "name": "rez-usd",
         "rez_name": "usd"
     },
-    "rez-usd_arnold": {
+    "usd_arnold": {
         "url": "https://api.github.com/repos/getblessing/rez-usd_arnold",
-        "git_url": "git://github.com/getblessing/rez-usd_arnold.git",
+        "clone_url": "https://github.com/getblessing/rez-usd_arnold.git",
         "html_url": "https://github.com/getblessing/rez-usd_arnold",
         "full_name": "getblessing/rez-usd_arnold",
         "name": "rez-usd_arnold",
         "rez_name": "usd_arnold"
     },
-    "rez-usd_maya": {
+    "usd_maya": {
         "url": "https://api.github.com/repos/getblessing/rez-usd_maya",
-        "git_url": "git://github.com/getblessing/rez-usd_maya.git",
+        "clone_url": "https://github.com/getblessing/rez-usd_maya.git",
         "html_url": "https://github.com/getblessing/rez-usd_maya",
         "full_name": "getblessing/rez-usd_maya",
         "name": "rez-usd_maya",
         "rez_name": "usd_maya"
     },
-    "rez-usd_qt": {
+    "usd_qt": {
         "url": "https://api.github.com/repos/getblessing/rez-usd_qt",
-        "git_url": "git://github.com/getblessing/rez-usd_qt.git",
+        "clone_url": "https://github.com/getblessing/rez-usd_qt.git",
         "html_url": "https://github.com/getblessing/rez-usd_qt",
         "full_name": "getblessing/rez-usd_qt",
         "name": "rez-usd_qt",
         "rez_name": "usd_qt"
     },
-    "rez-vcvars64": {
+    "vcvars64": {
         "url": "https://api.github.com/repos/getblessing/rez-vcvars64",
-        "git_url": "git://github.com/getblessing/rez-vcvars64.git",
+        "clone_url": "https://github.com/getblessing/rez-vcvars64.git",
         "html_url": "https://github.com/getblessing/rez-vcvars64",
         "full_name": "getblessing/rez-vcvars64",
         "name": "rez-vcvars64",
         "rez_name": "vcvars64"
     },
-    "rez-vscode": {
+    "vscode": {
         "url": "https://api.github.com/repos/getblessing/rez-vscode",
-        "git_url": "git://github.com/getblessing/rez-vscode.git",
+        "clone_url": "https://github.com/getblessing/rez-vscode.git",
         "html_url": "https://github.com/getblessing/rez-vscode",
         "full_name": "getblessing/rez-vscode",
         "name": "rez-vscode",
         "rez_name": "vscode"
     },
-    "rez-zlib": {
+    "zlib": {
         "url": "https://api.github.com/repos/getblessing/rez-zlib",
-        "git_url": "git://github.com/getblessing/rez-zlib.git",
+        "clone_url": "https://github.com/getblessing/rez-zlib.git",
         "html_url": "https://github.com/getblessing/rez-zlib",
         "full_name": "getblessing/rez-zlib",
         "name": "rez-zlib",

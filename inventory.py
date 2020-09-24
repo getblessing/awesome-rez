@@ -26,14 +26,15 @@ def fetch_pkg_repos():
             data = {
                 key: repo[key] for key in [
                     "url",
-                    "git_url",
+                    "clone_url",
                     "html_url",
                     "full_name",
                     "name",
                 ]
             }
-            data["rez_name"] = name[len(pkg_prefix):]
-            pkg_repos[name] = data
+            rez_name = name[len(pkg_prefix):]
+            data["rez_name"] = rez_name
+            pkg_repos[rez_name] = data
 
     return pkg_repos
 
