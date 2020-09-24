@@ -10,14 +10,15 @@ REZ_URL = "https://github.com/getblessing/rez.git"
 
 
 def install_rez(dst):
-    rezsrc = "rezsrc"
+    rezsrc = "build/rezsrc"
     git.clone(REZ_URL, rezsrc)
 
     if os.path.isdir(dst):
         lib.clean(dst)
     os.makedirs(dst)
 
-    subprocess.check_call([sys.executable, "install.py", "-v", dst])
+    subprocess.check_call([sys.executable, "install.py", "-v", dst],
+                          cwd=rezsrc)
 
 
 if __name__ == "__main__":
