@@ -63,16 +63,17 @@ def main(argv=None):
     if opts.quiet:
         log.setLevel(logging.CRITICAL)
 
-    success = False
-
     t0 = time.time()
     tmpdir = tempfile.mkdtemp()
     tempdir = os.path.join(tmpdir, "git")
 
     try:
-        git.build(opts, tempdir)
+        git.build(opts.url, tempdir, opts.branch,
+                  opts.install, opts.release, opts.build_options)
+    except Exception:
+        success = False
+    else:
         success = True
-
     finally:
         if opts.debug:
             tell("Temporary files @ %s" % tmpdir)

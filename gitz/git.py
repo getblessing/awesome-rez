@@ -39,14 +39,15 @@ def append_breadcrumb(package_py, branch):
         f.write("gitz_from_branch = '%s'\n" % branch)
 
 
-def build(opt, tempdir):
+def build(url, clone_dst, branch=None,
+          install=False, release=False, build_options=None):
 
-    clone(opt.url, dst=tempdir, branch=opt.branch)
+    clone(url, dst=clone_dst, branch=branch)
 
-    branch = get_branch(tempdir)
+    branch = get_branch(clone_dst)
     log.info("Cloned branch: [%s]" % branch)
 
-    package_py = os.path.join(tempdir, "package.py")
+    package_py = os.path.join(clone_dst, "package.py")
     if not os.path.isfile(package_py):
         raise Exception("Rez package.py not found")
 
@@ -54,13 +55,13 @@ def build(opt, tempdir):
 
     # build
 
-    if opt.release:
+    if release:
         args = ["rez-release"]
     else:
         args = ["rez-build"]
-        if opt.install:
+        if install:
             args.append("--install")
 
-    args.extend(opt.build_options or [])
+    args.extend(build_options or [])
 
-    subprocess.check_output(args, cwd=tempdir)
+    subprocess.check_output(args, cwd=clone_dst)
