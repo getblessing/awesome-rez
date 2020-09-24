@@ -1,0 +1,19 @@
+[
+  {
+    "options": [],
+    "requires": [
+      "default",
+      "rez",
+      "python",
+      "PySide2",
+      "Qt.py",
+      "allzpark",
+      "montydb",
+      "pymongo",
+      "localz",
+      "Pillow",
+      "identicon",
+      "pyidle"
+    ]
+  }
+]

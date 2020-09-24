@@ -64,4 +64,4 @@ def build(url, clone_dst, branch=None,
 
     args.extend(build_options or [])
 
-    subprocess.check_output(args, cwd=clone_dst)
+    subprocess.check_call(args, cwd=clone_dst)
