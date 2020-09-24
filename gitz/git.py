@@ -12,6 +12,10 @@ log = logging.getLogger("gitz")
 def clone(url, dst, branch=None, single_branch=True):
     # https://stackoverflow.com/a/4568323/14054728
 
+    if os.path.isdir(dst + "/.git"):
+        print("git dir exists, skip clone.")
+        return
+
     args = ["git", "clone"]
 
     if branch:
