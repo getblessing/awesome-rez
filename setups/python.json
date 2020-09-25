@@ -6,12 +6,6 @@
     ]
   },
   {
-    "options": ["--version", "3.6"],
-    "requires": [
-      "miniconda"
-    ]
-  },
-  {
     "options": ["--version", "3.7"],
     "requires": [
       "miniconda"
