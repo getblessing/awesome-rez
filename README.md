@@ -38,6 +38,14 @@ This will install package `ozark` from [getblessing/rez-ozark](https://github.co
 python ./deploy.py ozark
 ```
 
+This will install Avalon pipeline with reveries config. 🚧
+
+Noted that this will also install a demo used package `rez-house`, which is meant for studio-wide environment setup. You may want to build and install your own `house` package before installing this (package deploy script will skip pre-installed package).
+
+```shell
+python ./deploy.py reveries
+```
+
 Essential packages will also be installed: `os`, `arch`.. and `rez`.
 
 ### Topics

@@ -1,0 +1,18 @@
+[
+  {
+    "options": [],
+    "requires": [
+      "ozark",
+      "pyblish",
+      "PyQt5",
+      "Qt.py",
+      "pyblish_qml",
+      "pymongo",
+      "house",
+      "avalon",
+      "pysftp",
+      "avalon_sftpc",
+      "merlin"
+    ]
+  }
+]
