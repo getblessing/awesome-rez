@@ -1,14 +1,10 @@
 [
   {
-    "options": ["--version", "2.7"],
-    "requires": [
-      "miniconda"
-    ]
+    "options": ["--version", "2.7.18"],
+    "requires": []
   },
   {
-    "options": ["--version", "3.7"],
-    "requires": [
-      "miniconda"
-    ]
+    "options": ["--version", "3.7.9"],
+    "requires": []
   }
 ]
