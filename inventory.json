@@ -159,6 +159,14 @@
         "name": "rez-houdini",
         "rez_name": "houdini"
     },
+    "house": {
+        "url": "https://api.github.com/repos/getblessing/rez-house",
+        "clone_url": "https://github.com/getblessing/rez-house.git",
+        "html_url": "https://github.com/getblessing/rez-house",
+        "full_name": "getblessing/rez-house",
+        "name": "rez-house",
+        "rez_name": "house"
+    },
     "identicon": {
         "url": "https://api.github.com/repos/getblessing/rez-identicon",
         "clone_url": "https://github.com/getblessing/rez-identicon.git",
@@ -518,14 +526,6 @@
         "full_name": "getblessing/rez-rezgui",
         "name": "rez-rezgui",
         "rez_name": "rezgui"
-    },
-    "rezpkg": {
-        "url": "https://api.github.com/repos/getblessing/rez-rezpkg",
-        "clone_url": "https://github.com/getblessing/rez-rezpkg.git",
-        "html_url": "https://github.com/getblessing/rez-rezpkg",
-        "full_name": "getblessing/rez-rezpkg",
-        "name": "rez-rezpkg",
-        "rez_name": "rezpkg"
     },
     "rezshare": {
         "url": "https://api.github.com/repos/getblessing/rez-rezshare",
