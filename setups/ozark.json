@@ -10,7 +10,8 @@
       "localz",
       "Pillow",
       "identicon",
-      "pyidle"
+      "pyidle",
+      "terminal"
     ]
   }
 ]
