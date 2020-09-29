@@ -2,10 +2,12 @@
   {
     "options": [],
     "requires": [
-      "ozark",
-      "pyblish",
+      "PySide",
+      "PySide2",
       "PyQt5",
       "Qt.py",
+      "ozark",
+      "pyblish",
       "pyblish_qml",
       "pymongo",
       "house",
