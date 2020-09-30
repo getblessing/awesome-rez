@@ -255,14 +255,6 @@
         "name": "rez-maya_devkit",
         "rez_name": "maya_devkit"
     },
-    "merlin": {
-        "url": "https://api.github.com/repos/getblessing/rez-merlin",
-        "clone_url": "https://github.com/getblessing/rez-merlin.git",
-        "html_url": "https://github.com/getblessing/rez-merlin",
-        "full_name": "getblessing/rez-merlin",
-        "name": "rez-merlin",
-        "rez_name": "merlin"
-    },
     "miniconda": {
         "url": "https://api.github.com/repos/getblessing/rez-miniconda",
         "clone_url": "https://github.com/getblessing/rez-miniconda.git",
