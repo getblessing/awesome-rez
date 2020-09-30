@@ -11,7 +11,8 @@
       "Pillow",
       "identicon",
       "pyidle",
-      "terminal"
+      "terminal",
+      "graphviz"
     ]
   }
 ]
