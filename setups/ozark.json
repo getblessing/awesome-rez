@@ -10,7 +10,6 @@
       "localz",
       "Pillow",
       "identicon",
-      "pyidle",
       "terminal",
       "graphviz"
     ]
