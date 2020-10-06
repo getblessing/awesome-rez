@@ -37,12 +37,6 @@ def get_branch(repository):
     return branch[len("* "):].strip()
 
 
-def append_breadcrumb(package_py, branch):
-    with open(package_py, "a") as f:
-        f.write("gitz = True\n")
-        f.write("gitz_from_branch = '%s'\n" % branch)
-
-
 def build(url, clone_dst, branch=None,
           install=False, release=False, build_options=None):
 
@@ -54,8 +48,6 @@ def build(url, clone_dst, branch=None,
     package_py = os.path.join(clone_dst, "package.py")
     if not os.path.isfile(package_py):
         raise Exception("Rez package.py not found")
-
-    append_breadcrumb(package_py, branch)
 
     # build
 
