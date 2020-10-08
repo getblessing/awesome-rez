@@ -6,6 +6,7 @@
       "PySide2",
       "PyQt5",
       "Qt.py",
+      "Qt5.py",
       "ozark",
       "pyblish",
       "pyblish_qml",
