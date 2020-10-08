@@ -74,3 +74,13 @@ def package_preprocess_function(this, data):
             remapped_requires.append(package)
 
         data["requires"] = remapped_requires
+
+
+platform_map = {
+    "os": {
+        r"windows-6.1(.*)": r"windows-7",
+        r"windows-6.2(.*)": r"windows-8",
+        r"windows-6.3(.*)": r"windows-8.1",
+        r"windows-10(.*)": r"windows-10.0",
+    },
+}
