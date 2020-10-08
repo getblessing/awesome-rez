@@ -23,13 +23,13 @@
         "name": "rez-arnold",
         "rez_name": "arnold"
     },
-    "atoms": {
-        "url": "https://api.github.com/repos/getblessing/rez-atoms",
-        "clone_url": "https://github.com/getblessing/rez-atoms.git",
-        "html_url": "https://github.com/getblessing/rez-atoms",
-        "full_name": "getblessing/rez-atoms",
-        "name": "rez-atoms",
-        "rez_name": "atoms"
+    "atomscrowd": {
+        "url": "https://api.github.com/repos/getblessing/rez-atomscrowd",
+        "clone_url": "https://github.com/getblessing/rez-atomscrowd.git",
+        "html_url": "https://github.com/getblessing/rez-atomscrowd",
+        "full_name": "getblessing/rez-atomscrowd",
+        "name": "rez-atomscrowd",
+        "rez_name": "atomscrowd"
     },
     "avalon": {
         "url": "https://api.github.com/repos/getblessing/rez-avalon",
@@ -486,6 +486,22 @@
         "full_name": "getblessing/rez-Qt.py",
         "name": "rez-Qt.py",
         "rez_name": "Qt.py"
+    },
+    "Qt5.py": {
+        "url": "https://api.github.com/repos/getblessing/rez-Qt5.py",
+        "clone_url": "https://github.com/getblessing/rez-Qt5.py.git",
+        "html_url": "https://github.com/getblessing/rez-Qt5.py",
+        "full_name": "getblessing/rez-Qt5.py",
+        "name": "rez-Qt5.py",
+        "rez_name": "Qt5.py"
+    },
+    "redshift": {
+        "url": "https://api.github.com/repos/getblessing/rez-redshift",
+        "clone_url": "https://github.com/getblessing/rez-redshift.git",
+        "html_url": "https://github.com/getblessing/rez-redshift",
+        "full_name": "getblessing/rez-redshift",
+        "name": "rez-redshift",
+        "rez_name": "redshift"
     },
     "release": {
         "url": "https://api.github.com/repos/getblessing/rez-release",
